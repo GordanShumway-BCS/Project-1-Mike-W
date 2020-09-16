@@ -116,5 +116,3 @@ SSH into the control node and follow the steps below:
 - The hosts file would be updated to determine what machine it is to be run on.  
 - _Which URL do you navigate to in order to check that the ELK server is running?
 - 104.214.75.168:5601/app/Kibana#/home
-
-_As a **Bonus**, provide the specific commands the user will need to run to download the playbook, update the files, etc._
